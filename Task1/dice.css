@@ -1,0 +1,31 @@
+body {
+    background-color:#2BAE66FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+canvas {
+    background-color:#FCF6F5FF;
+    border: 3px solid black;
+    margin-left: 25%;
+    border-radius: 25%;
+    filter: drop-shadow(10px 8px 6px #FCF6F5FF);
+    
+    
+}
+/* #canvasdiv{
+    outline:3px solid red;
+    outline-offset: 3px;
+    border-radius: 25%;
+    margin-left: 25%; 
+} */
+#instruction{
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    color: #FCF6F5FF;
+}
+
+
+
